@@ -1,4 +1,4 @@
-# webpack-simple
+# vue-webpack-ts-hot
 
 > A simple Vue 2.0 + Webpack + `vue-loader` + TypeScript 2.0 setup for quick prototyping.
 > Supports Single file components `*.vue` and slitted components (i.e `*.ts`, `*.html` and `*.css`)
